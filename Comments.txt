@@ -1,0 +1,73 @@
+///////////////////////////////////////////////////////////////////////////////
+//                   
+// Author:           Ryan Ferguson
+// Email:            vex1123@gmail.com
+// Label:            (program's label from assignment list)
+// Title:            (short title from assignment, if any)
+// Course:           3013
+// Semester:         Spring 2020
+//
+// Description:
+//       describe program here thoroughly 
+//
+// Usage:
+//       how to use the program if necessary
+//
+// Files:            (list of all source files used in this program)
+/////////////////////////////////////////////////////////////////////////////////
+
+
+/**
+ * Class Name
+ * 
+ * Description:
+ *      Description of your class and what it does
+ * 
+ * Public Methods:
+ *      - A list of 
+ *      - each public method
+ *      - with return types
+ * 
+ * Private Methods:
+ *      - A list of 
+ *      - each private method
+ *      - with return types
+ * 
+ * Usage: 
+ * 
+ *      - examples of how
+ *      - to use your class 
+ *      
+ */
+ 
+  /**
+     * Public/Private/Protected : function_name
+     * 
+     * Description:
+     *      Describe the functions purpose
+     * 
+     * Params:
+     *      - list params
+     *      - one per line
+     *      - with return type
+     *      - and one line description
+     * 
+     * Returns:
+     *      - what does this function return (including the type)?
+     */
+     
+     COMMENT
+     
+     GOOD:
+     
+  int num1, num2, num3;     // user entered numbers
+  double average;           // calculated average of the numbers
+  int score1;               // score on exam 1
+  int score2;               // score on exam 2
+  
+    HORRIBLE WHY:
+    
+    int num1, num2, num3;          // user entered numbers
+  double average;    // calculated average of the numbers
+  int score1,    // score on exam 1
+      score2;			    // score on exam 2
